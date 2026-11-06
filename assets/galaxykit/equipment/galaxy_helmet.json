@@ -1,0 +1,9 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "galaxykit:entity/equipment/humanoid/galaxy_helmet"
+      }
+    ]
+  }
+}
